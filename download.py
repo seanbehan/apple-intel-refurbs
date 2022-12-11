@@ -38,6 +38,23 @@ df = (
         url = lambda x: 'https://apple.com' + x.url.astype(str),
         info = lambda x: x.url.apply(download_detail_page)
     )
-    .to_csv('products.csv', index=False)
 )
 
+df.to_csv('products.csv', index=False)
+
+
+text = '''
+# 16 Inch Refurbished Macbook Pros
+
+This page updates once an hour with the latest refurbished products from Apple.com. 
+
+'''
+
+for row in df.to_dict('records'):
+    text += f'''
+    - {row['text']}
+    - [{row['info']}](row['url'])
+    '''
+
+with open('README.md', 'w') as f:
+    f.write(text)
