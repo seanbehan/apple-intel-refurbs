@@ -3,6 +3,8 @@
 
 This page updates once an hour with the latest refurbished products from Apple.com. 
 
+![Prices over time](prices.jpg?raw=true "Prices over time")
+
 
 #### Refurbished 16-inch MacBook Pro 2.6GHz 6-core Intel Core i7 with Retina display - Space Gray
 - $2,289.00
