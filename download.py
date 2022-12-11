@@ -7,15 +7,23 @@ url = 'https://www.apple.com/shop/refurbished/mac'
 
 doc = fromstring(get(url).text)
 
+
+
 '''
 given a url try to download the detail page
 its an unordered list so we are guessing the location for similar products
 '''
-def download_detail_page(url):
+def download_detail_page(row):
     try:
+        url = row['url']
         doc2 = fromstring(get(url).text)
+        price = [el for el in doc2.xpath('//div[@class="rf-pdp-currentprice"]/text()')][0]
         ram,hd = [el.strip() for el in doc2.xpath('//div[contains(@class, "rc-pdsection-mainpanel")]/div[@class="para-list"]/p/text()')[3:5]]
-        return f'{ram} {hd}'
+        row['price'] = price
+        row['ram'] = ram
+        row['hd'] = hd
+
+        return row
     except:
         return None
 
@@ -36,12 +44,17 @@ df = (
     .query("text.str.contains('16')")
     .assign(
         url = lambda x: 'https://apple.com' + x.url.astype(str),
-        info = lambda x: x.url.apply(download_detail_page)
+        # details = lambda x: x.url.apply(download_detail_page),
     )
+    .apply(download_detail_page, axis=1)
 )
 
 df.to_csv('products.csv', index=False)
 
+
+'''
+make markdown readme
+'''
 
 text = '''
 # 16 Inch Refurbished Macbook Pros
@@ -49,12 +62,16 @@ text = '''
 This page updates once an hour with the latest refurbished products from Apple.com. 
 
 '''
-
 for row in df.to_dict('records'):
     text += f'''
-    - {row['text']}
-    - [{row['info']}](row['url'])
-    '''.strip()
+#### {row['text']}
+- {row['price']}
+- {row['ram']}
+- {row['hd']}
+- [View on Apple.com]({row['url']})
+    '''
 
 with open('README.md', 'w') as f:
     f.write(text)
+    
+# finito!    
