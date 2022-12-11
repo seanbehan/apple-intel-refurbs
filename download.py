@@ -54,7 +54,7 @@ for row in df.to_dict('records'):
     text += f'''
     - {row['text']}
     - [{row['info']}](row['url'])
-    '''
+    '''.strip()
 
 with open('README.md', 'w') as f:
     f.write(text)
