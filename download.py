@@ -12,7 +12,7 @@ headers = ['date', 'time', 'url', 'text', 'price', 'ram', 'hd']
 def download_detail_page(row):
     row['date'] = now.strftime('%Y-%m-%d')
     row['time'] = now.strftime('%I:%M %p')
-    row['url'] = 'https://apple.com' + row['path']
+    row['url'] = 'https://apple.com' + row['url']
 
     doc_ = fromstring(get(row['url']).text)
     price = [el for el in doc_.xpath('//div[@class="rf-pdp-currentprice"]/text()')][0]
@@ -29,7 +29,7 @@ doc = fromstring(get(url).text)
 ''' create dataframe from links and download details ''' 
 df = (
     pd.DataFrame([
-      {'text': a.text, 'path': a.get('href')} 
+      {'text': a.text, 'url': a.get('href')} 
       for a in doc.xpath('//a') if 'shop/product' in a.get('href')
     ], columns=headers)
     .query("text.str.contains('intel', case=False)")
