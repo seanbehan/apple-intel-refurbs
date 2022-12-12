@@ -1,7 +1,7 @@
 
 
 
-![Status](/seanbehan/apple-intel-refurbs/actions/workflows/python-app.yml/badge.svg)
+![Status badge](https://github.com/seanbehan/apple-intel-refurbs/actions/workflows/python-app.yml/badge.svg)
 
 
 # 16 Inch Refurbished Macbook Pros
