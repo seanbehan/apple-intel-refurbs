@@ -25,25 +25,20 @@ def download_detail_page(row):
 
     return row
 
-'''
-steps:
-1. make frame of title and path. note, apple decorates page w/javascript, so have to look at href values
-2. reduce list to only 16-inch intel macbooks
-3. download detail page for ram and harddrive info
-4. publish to csv file 
-'''
 df = (
     pd.DataFrame([
       {'text': a.text, 'path': a.get('href')} 
       for a in doc.xpath('//a') if 'shop/product' in a.get('href')
-    ])
+    ], columns=historical_headers)
     .query("text.str.contains('intel', case=False)")
     .query("text.str.contains('book', case=False)")
     .query("text.str.contains('16')")
     .apply(download_detail_page, axis=1)
 )
 
+
 df.to_csv('products.csv', index=False)
+
 df[historical_headers].to_csv('historical.csv', index=False, header=False, mode='a')
 
 historical = (
@@ -60,18 +55,24 @@ means = (historical.groupby('date')['price'].mean().reset_index(name='price'))
 
 fig,ax = plt.subplots(figsize=(12,8))
 ax.set(title='Mean price over time', ylabel='Prices', xlabel='Date')
+
 ax.bar(means.date.values, means.price.values)
+
 fig.savefig('prices.jpg')
 
-
 text = '''
+
 # 16 Inch Refurbished Macbook Pros
 
 This page updates once an hour with the latest refurbished products from Apple.com. 
 
-![Prices over time](prices.jpg?raw=true "Prices over time")
+![Prices over time](prices.jpg?raw=true "Prices")
 
 '''
+
+if len(df) < 1:
+    text += '# No products at the moment '
+
 for row in df.to_dict('records'):
     text += f'''
 #### {row['text']}
