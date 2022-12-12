@@ -63,6 +63,10 @@ fig.savefig('prices.jpg')
 ''' make markdown text for readme '''
 text = '''
 
+
+![Status](actions/workflows/python-app.yml/badge.svg)
+
+
 # 16 Inch Refurbished Macbook Pros
 
 This page updates once an hour with the latest refurbished products from Apple.com. 
