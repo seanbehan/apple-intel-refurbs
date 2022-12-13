@@ -50,8 +50,7 @@ df_ = (
             errors='coerce'
         )
     )
-    .query("text.str.contains('book', case=False)")
-    .query("text.str.contains('air', case=False)")
+    .query("text.str.contains('intel', case=False)")
 )
 
 
