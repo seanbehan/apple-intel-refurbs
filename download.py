@@ -33,8 +33,8 @@ df = (
       for a in doc.xpath('//a') if 'shop/product' in a.get('href')
     ], columns=headers)
     .query("text.str.contains('intel', case=False)")
-    .query("text.str.contains('book', case=False)")
-    .query("text.str.contains('16')")
+    # .query("text.str.contains('book', case=False)")
+    # .query("text.str.contains('16')")
     .apply(download_detail_page, axis=1)
 )
 
