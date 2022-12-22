@@ -1134,12 +1134,6 @@ This page updates once an hour with the latest refurbished products from Apple.c
 - [View on Apple.com](https://apple.com/shop/product/G0UR9LL/A/Refurbished-27-inch-iMac-Pro-30GHz-10-core-Intel-Xeon-W-with-Retina-5K-display?fnode=a9a5c802a34b4e2724507711712d42f342a109acc979a5ca858f94aceb60985773765af931962eedb7b2e104d5c516c7fd5a4741a5cac56b5227c0830048f55f81f8bdea008eccd226cc494fe23796bc)
     
 #### Refurbished Mac Pro 3.5GHz 8-core Intel Xeon W, Radeon Pro 580X
-- $5,519.00
-- Radeon Pro 580X with 8GB of GDDR5 memory
-- 1TB SSD
-- [View on Apple.com](https://apple.com/shop/product/G0W31LL/A/Refurbished-Mac-Pro-35GHz-8-core-Intel-Xeon-W-Radeon-Pro-580X?fnode=a9a5c802a34b4e2724507711712d42f342a109acc979a5ca858f94aceb60985773765af931962eedb7b2e104d5c516c7fd5a4741a5cac56b5227c0830048f55f81f8bdea008eccd226cc494fe23796bc)
-    
-#### Refurbished Mac Pro 3.5GHz 8-core Intel Xeon W, Radeon Pro 580X
 - $5,609.00
 - Radeon Pro 580X with 8GB of GDDR5 memory
 - 256GB SSD
