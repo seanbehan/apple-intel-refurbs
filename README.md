@@ -840,12 +840,6 @@ This page updates once an hour with the latest refurbished products from Apple.c
 - [View on Apple.com](https://apple.com/shop/product/G10TWLL/A/Refurbished-Mac-Pro-35GHz-8-core-Intel-Xeon-W-Two-Radeon-Pro-W5700X-Apple-Afterburner?fnode=90cb58229e20f88d74772e169109556e60d94e265f2f0f12b35ae7fb9a6a002c091d0fbc1cddb3c7a07e95318d233a8ff9642390face69340b7967d9632d5d7ffa899f5101a7af760c8e018ba5d7e45a)
     
 #### Refurbished Mac Pro 2.5GHz 28-core Intel Xeon W, Radeon Pro W5700X
-- $11,809.00
-- Radeon Pro W5700X with 16GB of GDDR5 memory
-- 1TB SSD
-- [View on Apple.com](https://apple.com/shop/product/G14GYLL/A/Refurbished-Mac-Pro-25GHz-28-core-Intel-Xeon-W-Radeon-Pro-W5700X?fnode=90cb58229e20f88d74772e169109556e60d94e265f2f0f12b35ae7fb9a6a002c091d0fbc1cddb3c7a07e95318d233a8ff9642390face69340b7967d9632d5d7ffa899f5101a7af760c8e018ba5d7e45a)
-    
-#### Refurbished Mac Pro 2.5GHz 28-core Intel Xeon W, Radeon Pro W5700X
 - $12,239.00
 - Radeon Pro W5700X with 16GB of GDDR5 memory
 - 1TB SSD
