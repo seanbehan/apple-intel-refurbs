@@ -1133,12 +1133,6 @@ This page updates once an hour with the latest refurbished products from Apple.c
 - 1TB SSD
 - [View on Apple.com](https://apple.com/shop/product/G11URLL/A/refurbished-27-inch-imac-36ghz-10-core-intel-core-i9-with-retina-5k-display-nano-texture-glass?fnode=bc5b876156319fef61ae6fe277e45bf4ddea734b4038b08628da33438483536a90fbbc1b02aa1e51d1b0707b36f2b4530d7d0e1727186a202625c0bf2e0a79f56f18d9126b5bab47a04b210ba83a4954)
     
-#### Refurbished 27-inch iMac 3.8GHz 8-core Intel Core i7 with Retina 5K display, Nano-texture glass
-- $3,099.00
-- 32GB of 2666MHz DDR4 memory
-- 2TB SSD
-- [View on Apple.com](https://apple.com/shop/product/G11U0LL/A/refurbished-27-inch-imac-38ghz-8-core-intel-core-i7-with-retina-5k-display-nano-texture-glass?fnode=bc5b876156319fef61ae6fe277e45bf4ddea734b4038b08628da33438483536a90fbbc1b02aa1e51d1b0707b36f2b4530d7d0e1727186a202625c0bf2e0a79f56f18d9126b5bab47a04b210ba83a4954)
-    
 #### Refurbished 27-inch iMac 3.6GHz 10-core Intel Core i9 with Retina 5K display, Nano-texture glass
 - $3,099.00
 - 16GB of 2666MHz DDR4 memory
