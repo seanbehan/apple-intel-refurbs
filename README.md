@@ -17,12 +17,6 @@ This page updates once an hour with the latest refurbished products from Apple.c
 - Four Thunderbolt 3 ports (up to 40 Gbps)
 - [View on Apple.com](https://apple.com/shop/product/FXNG2LL/A/Refurbished-Mac-mini-30GHz-6-core-Intel-Core-i5-Space-Gray?fnode=34e223ab589a20b971e2dfa28e3c9b1aed31fb9efb19bc07388a4f0d65aa8e93dff5edd16a997a901e1f827b080b3c9ea16d527017710b2211b56b4dd117ea11b3a9cd61055da71e68a6d800a9e426a2)
     
-#### Refurbished Mac mini 3.0GHz 6-core Intel Core i5, 10GB Ethernet - Space Gray
-- $1,189.00
-- 
-- Four Thunderbolt 3 ports (up to 40 Gbps)
-- [View on Apple.com](https://apple.com/shop/product/G0ZT2LL/A/Refurbished-Mac-mini-30GHz-6-core-Intel-Core-i5-Space-Gray?fnode=34e223ab589a20b971e2dfa28e3c9b1aed31fb9efb19bc07388a4f0d65aa8e93dff5edd16a997a901e1f827b080b3c9ea16d527017710b2211b56b4dd117ea11b3a9cd61055da71e68a6d800a9e426a2)
-    
 #### Refurbished 27-inch iMac 3.1GHz 6-core Intel Core i5 with Retina 5K display
 - $1,299.00
 - 8GB of 2666MHz DDR4 memory
@@ -442,12 +436,6 @@ This page updates once an hour with the latest refurbished products from Apple.c
 - 32GB of 2666MHz DDR4 memory
 - 1TB SSD
 - [View on Apple.com](https://apple.com/shop/product/G0ZWWLL/A/Refurbished-27-inch-iMac-33GHz-6-core-Intel-Core-i5-with-Retina-5K-display-Nano-texture-glass?fnode=34e223ab589a20b971e2dfa28e3c9b1aed31fb9efb19bc07388a4f0d65aa8e93dff5edd16a997a901e1f827b080b3c9ea16d527017710b2211b56b4dd117ea11b3a9cd61055da71e68a6d800a9e426a2)
-    
-#### Refurbished 27-inch iMac 3.6GHz 10-core Intel Core i9 with Retina 5K display
-- $2,229.00
-- 32GB of 2666MHz DDR4 memory
-- 512GB SSD
-- [View on Apple.com](https://apple.com/shop/product/G0ZWHLL/A/Refurbished-27-inch-iMac-36GHz-10-core-Intel-Core-i9-with-Retina-5K-display?fnode=34e223ab589a20b971e2dfa28e3c9b1aed31fb9efb19bc07388a4f0d65aa8e93dff5edd16a997a901e1f827b080b3c9ea16d527017710b2211b56b4dd117ea11b3a9cd61055da71e68a6d800a9e426a2)
     
 #### Refurbished 13.3-inch MacBook Pro 2.0GHz quad-core Intel Core i5 with Retina display- Silver
 - $2,289.00
@@ -875,12 +863,6 @@ This page updates once an hour with the latest refurbished products from Apple.c
 - 1TB SSD
 - [View on Apple.com](https://apple.com/shop/product/G11S0LL/A/Refurbished-27-inch-iMac-36GHz-10-core-Intel-Core-i9-with-Retina-5K-display-Nano-texture-glass?fnode=34e223ab589a20b971e2dfa28e3c9b1aed31fb9efb19bc07388a4f0d65aa8e93dff5edd16a997a901e1f827b080b3c9ea16d527017710b2211b56b4dd117ea11b3a9cd61055da71e68a6d800a9e426a2)
     
-#### Refurbished 13.3-inch MacBook Pro 2.3GHz quad-core Intel Core i7 with Retina display- Space Gray
-- $2,749.00
-- 13.3-inch (diagonal) LED-backlit display with IPS technology; 2560-by-1600 native resolution at 227 pixels per inch
-- 32GB of 3733MHz LPDDR4X onboard memory
-- [View on Apple.com](https://apple.com/shop/product/G0Y7ALL/A/refurbished-133-inch-macbook-pro-23ghz-quad-core-intel-core-i7-with-retina-display-space-gray?fnode=34e223ab589a20b971e2dfa28e3c9b1aed31fb9efb19bc07388a4f0d65aa8e93dff5edd16a997a901e1f827b080b3c9ea16d527017710b2211b56b4dd117ea11b3a9cd61055da71e68a6d800a9e426a2)
-    
 #### Refurbished 27-inch iMac 3.6GHz 10-core Intel Core i9 with Retina 5K display, 10GB Ethernet
 - $2,809.00
 - 8GB of 2666MHz DDR4 memory
@@ -1162,12 +1144,6 @@ This page updates once an hour with the latest refurbished products from Apple.c
 - 128GB of 2666MHz DDR4 memory
 - 1TB SSD
 - [View on Apple.com](https://apple.com/shop/product/G0ZWMLL/A/Refurbished-27-inch-iMac-36GHz-10-core-Intel-Core-i9-with-Retina-5K-display?fnode=34e223ab589a20b971e2dfa28e3c9b1aed31fb9efb19bc07388a4f0d65aa8e93dff5edd16a997a901e1f827b080b3c9ea16d527017710b2211b56b4dd117ea11b3a9cd61055da71e68a6d800a9e426a2)
-    
-#### Refurbished 27-inch iMac 3.8GHz 8-core Intel Core i7 with Retina 5K display
-- $3,819.00
-- 32GB of 2666MHz DDR4 memory
-- 8TB SSD
-- [View on Apple.com](https://apple.com/shop/product/G0ZXELL/A/Refurbished-27-inch-iMac-38GHz-8-core-Intel-Core-i7-with-Retina-5K-display?fnode=34e223ab589a20b971e2dfa28e3c9b1aed31fb9efb19bc07388a4f0d65aa8e93dff5edd16a997a901e1f827b080b3c9ea16d527017710b2211b56b4dd117ea11b3a9cd61055da71e68a6d800a9e426a2)
     
 #### Refurbished 27-inch iMac 3.6GHz 10-core Intel Core i9 with Retina 5K display
 - $3,819.00
