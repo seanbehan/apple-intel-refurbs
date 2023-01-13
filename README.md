@@ -773,12 +773,6 @@ This page updates once an hour with the latest refurbished products from Apple.c
 - 1TB SSD
 - [View on Apple.com](https://apple.com/shop/product/G16FLLL/A/Refurbished-27-inch-iMac-36GHz-10-core-Intel-Core-i9-with-Retina-5K-display-10GB-Ethernet?fnode=11c571b3b76124e0cbfe7cb1a8137d19cef39f9f8b69df63c73c7b07e7d700a6ced8a37fa00f108c6ce88dbb4b8e904b294c0d48963e4cbd0ead745ce20805f051ad435570f71fabbe10b55a201e0b5c)
     
-#### Refurbished 27-inch iMac 3.8GHz 8-core Intel Core i7 with Retina 5K display, 10GB Ethernet
-- $2,519.00
-- 8GB of 2666MHz DDR4 memory
-- 2TB SSD
-- [View on Apple.com](https://apple.com/shop/product/G11PMLL/A/Refurbished-27-inch-iMac-38GHz-8-core-Intel-Core-i7-with-Retina-5K-display-10GB-Ethernet?fnode=11c571b3b76124e0cbfe7cb1a8137d19cef39f9f8b69df63c73c7b07e7d700a6ced8a37fa00f108c6ce88dbb4b8e904b294c0d48963e4cbd0ead745ce20805f051ad435570f71fabbe10b55a201e0b5c)
-    
 #### Refurbished 27-inch iMac 3.6GHz 10-core Intel Core i9 with Retina 5K display, Nano-texture glass
 - $2,519.00
 - 8GB of 2666MHz DDR4 memory
@@ -1576,12 +1570,6 @@ This page updates once an hour with the latest refurbished products from Apple.c
 - 1TB SSD storage
 - 
 - [View on Apple.com](https://apple.com/shop/product/GMURLLL/A/Refurbished-27-inch-iMac-Pro-25GHz-14-core-Intel-Xeon-W-with-Retina-5K-display?fnode=11c571b3b76124e0cbfe7cb1a8137d19cef39f9f8b69df63c73c7b07e7d700a6ced8a37fa00f108c6ce88dbb4b8e904b294c0d48963e4cbd0ead745ce20805f051ad435570f71fabbe10b55a201e0b5c)
-    
-#### Refurbished Mac Pro 3.5GHz 8-core Intel Xeon W, Radeon Pro W5500X
-- $5,779.00
-- Radeon Pro W5500X with 8GB of GDDR6 memory
-- 512GB SSD
-- [View on Apple.com](https://apple.com/shop/product/G10X4LL/A/Refurbished-Mac-Pro-35GHz-8-core-Intel-Xeon-W-Radeon-Pro-W5500X?fnode=11c571b3b76124e0cbfe7cb1a8137d19cef39f9f8b69df63c73c7b07e7d700a6ced8a37fa00f108c6ce88dbb4b8e904b294c0d48963e4cbd0ead745ce20805f051ad435570f71fabbe10b55a201e0b5c)
     
 #### Refurbished 27-inch iMac Pro 2.3GHz 18-core Intel Xeon W with Retina 5K display
 - $5,949.00
