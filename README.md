@@ -593,12 +593,6 @@ This page updates once an hour with the latest refurbished products from Apple.c
 - Four Thunderbolt 3 ports (up to 40 Gbps)
 - [View on Apple.com](https://apple.com/shop/product/G11L5LL/A/Refurbished-Mac-mini-32GHz-6-core-Intel-Core-i7-Space-Gray?fnode=4c37b5dc7312b925ed9c07d549e8853e100caddd52fc41ca17849017a2e2a413771c037293002cfc5c2845e8995dc20aa9d7c6dd32f105f96137e9ae8a6aefbeb8c5ad9795ab4c5e85685b797605d870)
     
-#### Refurbished Mac mini 3.2GHz 6-core Intel Core i7 - Space Gray
-- $2,119.00
-- 
-- Four Thunderbolt 3 ports (up to 40 Gbps)
-- [View on Apple.com](https://apple.com/shop/product/G11L9LL/A/Refurbished-Mac-mini-32GHz-6-core-Intel-Core-i7-Space-Gray?fnode=4c37b5dc7312b925ed9c07d549e8853e100caddd52fc41ca17849017a2e2a413771c037293002cfc5c2845e8995dc20aa9d7c6dd32f105f96137e9ae8a6aefbeb8c5ad9795ab4c5e85685b797605d870)
-    
 #### Refurbished 27-inch iMac 3.6GHz 10-core Intel Core i9 with Retina 5K display, 10GB Ethernet
 - $2,139.00
 - 8GB of 2666MHz DDR4 memory
