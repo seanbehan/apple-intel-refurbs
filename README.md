@@ -77,12 +77,6 @@ This page updates once an hour with the latest refurbished products from Apple.c
 - 1TB SSD
 - [View on Apple.com](https://apple.com/shop/product/G0ZW0LL/A/Refurbished-27-inch-iMac-33ghz-6-coreiIntel-core-i5-with-retina-5k-display?fnode=bb810aa6d13bf4c195bcfb1a75054146feba512e6f29c8a62071571e1000d00238f5e747c500a1fb3498964dcff7320bef84893c1384658d36c8cfbdff583d6d50288100f30002db6fb36e37f609d24a)
     
-#### Refurbished Mac mini 3.2GHz 6-core Intel Core i7 - Space Gray
-- $1,439.00
-- 
-- Four Thunderbolt 3 ports (up to 40 Gbps)
-- [View on Apple.com](https://apple.com/shop/product/G0ZTXLL/A/Refurbished-Mac-mini-32GHz-6-core-Intel-Core-i7-Space-Gray?fnode=bb810aa6d13bf4c195bcfb1a75054146feba512e6f29c8a62071571e1000d00238f5e747c500a1fb3498964dcff7320bef84893c1384658d36c8cfbdff583d6d50288100f30002db6fb36e37f609d24a)
-    
 #### Refurbished 27-inch iMac 3.1GHz 6-core Intel Core i5 with Retina 5K display, Nano-texture glass
 - $1,489.00
 - 16GB of 2666MHz DDR4 memory
@@ -545,12 +539,6 @@ This page updates once an hour with the latest refurbished products from Apple.c
 - 1TB SSD
 - [View on Apple.com](https://apple.com/shop/product/G11VKLL/A/Refurbished-27-inch-iMac-36GHz-10-core-Intel-Core-i9-with-Retina-5K-display-10GB-Ethernet?fnode=bb810aa6d13bf4c195bcfb1a75054146feba512e6f29c8a62071571e1000d00238f5e747c500a1fb3498964dcff7320bef84893c1384658d36c8cfbdff583d6d50288100f30002db6fb36e37f609d24a)
     
-#### Refurbished 27-inch iMac 3.8GHz 8-core Intel Core i7 with Retina 5K display
-- $2,269.00
-- 32GB of 2666MHz DDR4 memory
-- 2TB SSD
-- [View on Apple.com](https://apple.com/shop/product/G0ZXCLL/A/Refurbished-27-inch-iMac-38GHz-8-core-Intel-Core-i7-with-Retina-5K-display?fnode=bb810aa6d13bf4c195bcfb1a75054146feba512e6f29c8a62071571e1000d00238f5e747c500a1fb3498964dcff7320bef84893c1384658d36c8cfbdff583d6d50288100f30002db6fb36e37f609d24a)
-    
 #### Refurbished 27-inch iMac 3.8GHz 8-core Intel Core i7 with Retina 5K display, 10GB Ethernet
 - $2,269.00
 - 32GB of 2666MHz DDR4 memory
@@ -730,12 +718,6 @@ This page updates once an hour with the latest refurbished products from Apple.c
 - 8GB of 2666MHz DDR4 memory
 - 4TB SSD
 - [View on Apple.com](https://apple.com/shop/product/G11V9LL/A/Refurbished-27-inch-iMac-36GHz-10-core-Intel-Core-i9-with-Retina-5K-display-10GB-Ethernet?fnode=bb810aa6d13bf4c195bcfb1a75054146feba512e6f29c8a62071571e1000d00238f5e747c500a1fb3498964dcff7320bef84893c1384658d36c8cfbdff583d6d50288100f30002db6fb36e37f609d24a)
-    
-#### Refurbished 27-inch iMac 3.6GHz 10-core Intel Core i9 with Retina 5K display, 10GB Ethernet
-- $2,599.00
-- 32GB of 2666MHz DDR4 memory
-- 2TB SSD
-- [View on Apple.com](https://apple.com/shop/product/G11VALL/A/Refurbished-27-inch-iMac-36GHz-10-core-Intel-Core-i9-with-Retina-5K-display-10GB-Ethernet?fnode=bb810aa6d13bf4c195bcfb1a75054146feba512e6f29c8a62071571e1000d00238f5e747c500a1fb3498964dcff7320bef84893c1384658d36c8cfbdff583d6d50288100f30002db6fb36e37f609d24a)
     
 #### Refurbished 27-inch iMac 3.6GHz 10-core Intel Core i9 with Retina 5K display
 - $2,599.00
@@ -1048,12 +1030,6 @@ This page updates once an hour with the latest refurbished products from Apple.c
 - 128GB of 2666MHz DDR4 memory
 - 2TB SSD
 - [View on Apple.com](https://apple.com/shop/product/G11QVLL/A/Refurbished-27-inch-iMac-36GHz-10-core-Intel-Core-i9-with-Retina-5K-display?fnode=bb810aa6d13bf4c195bcfb1a75054146feba512e6f29c8a62071571e1000d00238f5e747c500a1fb3498964dcff7320bef84893c1384658d36c8cfbdff583d6d50288100f30002db6fb36e37f609d24a)
-    
-#### Refurbished 27-inch iMac 3.6GHz 10-core Intel Core i9 with Retina 5K display, 10GB Ethernet, Nano-texture glass
-- $4,159.00
-- 128GB of 2666MHz DDR4 memory
-- 1TB SSD
-- [View on Apple.com](https://apple.com/shop/product/G16FCLL/A/Refurbished-27-inch-iMac-36GHz-10-core-Intel-Core-i9-with-Retina-5K-display-10GB-Ethernet-Nano-texture-glass?fnode=bb810aa6d13bf4c195bcfb1a75054146feba512e6f29c8a62071571e1000d00238f5e747c500a1fb3498964dcff7320bef84893c1384658d36c8cfbdff583d6d50288100f30002db6fb36e37f609d24a)
     
 #### Refurbished 27-inch iMac 3.6GHz 10-core Intel Core i9 with Retina 5K display
 - $4,219.00
